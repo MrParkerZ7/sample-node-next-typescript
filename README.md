@@ -7,3 +7,6 @@
 - Next Infos
   - next generation of react
   - perform client & server render side
+
+## Setup Sample
+- Next | Node | TypeScript | HTML | CSS

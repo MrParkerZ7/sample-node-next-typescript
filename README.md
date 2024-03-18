@@ -8,5 +8,5 @@
   - next generation of react
   - perform client & server render side
 
-## Setup Sample
+## Tags
 - Next | Node | TypeScript | HTML | CSS
